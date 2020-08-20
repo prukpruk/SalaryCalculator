@@ -1,0 +1,14 @@
+D:\Borntodev\SalaryCalculator\obj\Debug\MainWindow.g.cs
+D:\Borntodev\SalaryCalculator\obj\Debug\App.g.cs
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay_MarkupCompile.cache
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay_MarkupCompile.lref
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay.exe
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay.pdb
+D:\Borntodev\SalaryCalculator\bin\Debug\SalaryToPay.exe.config
+D:\Borntodev\SalaryCalculator\bin\Debug\SalaryToPay.exe
+D:\Borntodev\SalaryCalculator\bin\Debug\SalaryToPay.pdb
+D:\Borntodev\SalaryCalculator\obj\Debug\MainWindow.baml
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay.g.resources
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryToPay.Properties.Resources.resources
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.cache
+D:\Borntodev\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
